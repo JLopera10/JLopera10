@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudiante de 19 años de la Universidad EAFIT, actualmente me encuentro cursando mi carrera en Ingenieria de Sistemas 👋
 
 <!--
 **JLopera10/JLopera10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
